@@ -10,7 +10,7 @@ from fractions import Fraction
 os.makedirs("data", exist_ok=True)
 
 JOBS = mp.cpu_count()
-N = 20
+N = 25
 k = 10*JOBS
 
 HEADER = ["set", "add_ds", "diff_ds", "mult_ds", "cardinality", "diameter", "density", "dc",
