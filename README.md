@@ -1,4 +1,4 @@
-# Dyadic Sumets
+# Dyadic Sumet Asymptotics
 
 ## Introduction and motivation
 
